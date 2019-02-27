@@ -38,9 +38,10 @@
 
 
 + 大数据环境测试：
-1. hive 读取 hql 并通过 spark 训练、评估及预测 demo；
 
-2. spark-submit 提交作业调优
+1.hive 读取 hql 并通过 spark 训练、评估及预测 demo；
+
+2.spark-submit 提交作业调优
 
 
 + 数据分析：
